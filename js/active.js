@@ -46,7 +46,7 @@
     if ($.fn.niceScroll) {
         $("body, textarea").niceScroll({
             cursorcolor: "#151515",
-            cursorwidth: "6px",
+            cursorwidth: "10px",
             background: "#f0f0f0"
         });
     }
